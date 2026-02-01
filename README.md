@@ -70,7 +70,7 @@ I regularly participate in CTF competitions and play for **L3ak** 🏴‍☠️,
   
 ![Profile Views](https://komarev.com/ghpvc/?username=0x4r35&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS)
 
-**"Hack the Planet!"** 🌐💀
+**orz orz orz** 🙇
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 

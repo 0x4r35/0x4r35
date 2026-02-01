@@ -11,7 +11,7 @@
 
 <div align="center">
 
-### 💜 Robin & Starfire's Favorite Human 💚
+### 🦸 Robin of CTF World 💚
 
 </div>
 

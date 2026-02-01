@@ -66,41 +66,6 @@ I regularly participate in CTF competitions and play for **L3ak** 🏴‍☠️,
 
 ---
 
-## 🔧 Projects
-
-### 🔗 [ping](https://github.com/0x4r35)
-A low-level networking utility focused on understanding ICMP packets and network reachability. Built to explore raw sockets and network internals.
-
-### 📦 [zero-alloc-binary-parser](https://github.com/0x4r35)
-A high-performance binary parser designed with zero heap allocations. Memory-safe parsing for CTF challenges and binary analysis.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0x4r35&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF00&icon_color=00FF00&text_color=FFFFFF" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0x4r35&theme=radical&hide_border=true&background=0D1117&stroke=00FF00&ring=00FF00&fire=FF6B6B&currStreakLabel=00FF00" alt="GitHub Streak" height="165" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=0x4r35&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies" />
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
-
----
-
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=0x4r35&color=00ff00&style=for-the-badge&label=PROFILE+VIEWS)

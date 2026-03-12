@@ -11,7 +11,7 @@
 
 <div align="center">
 
-### 🦸 Robin of CTF World 💚
+### 🦸 0x4r35 says hi  💚
 
 </div>
 
@@ -32,9 +32,11 @@ I regularly participate in CTF competitions and play for **L3ak** 🏴‍☠️,
 
 | Competition | Rank |
 |-------------|------|
+| 🥇 **srdnlenCTF 2026** | 1st place |
 | 🥇 **0xL4ughCTF 2026** | 1st Place |
 | 🥇 **BuckeyeCTF 2025** | 1st Place (Open) |
 | 🥇 **Starpwn CTF** (DEF CON MetaCTF) | 1st Place |
+| 🥈 **IIT GOA BLOCKCHAINCTF** | 2nd Place |
 | 🥈 **BrunnerCTF** | 2nd Place |
 | 🥉 **Sunshine CTF 2025** | 3rd Place |
 | 🏅 **TheHackersCrew CTF** | Top 5 |
@@ -44,8 +46,8 @@ I regularly participate in CTF competitions and play for **L3ak** 🏴‍☠️,
 | 🛰️ **ASIS CTF** | 9th Place |
 
 ### 🔐 CryptoHack
-- 🌍 **World Ranking:** Top 200
-- 🇮🇳 **India Rank:** Top 10
+- 🌍 **World Ranking:** 79
+- 🇮🇳 **India Rank:** 2
 - 👤 Username: `aresinheaven`
 
 ---
@@ -79,8 +81,7 @@ I regularly participate in CTF competitions and play for **L3ak** 🏴‍☠️,
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0x4r35&color=9B59B6&style=for-the-badge&label=PROFILE+VIEWS)
 
-### ⭐ Starfire: "On my planet, this profile is most glorious!" 💜
-### 🦸 Robin: "Titans, GO!" 💚
+
 
 **orz orz orz** 🙇
 

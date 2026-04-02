@@ -22,16 +22,17 @@
 
 ## 🦸 About Me
 
-I'm a **second-year cybersecurity student** with a strong focus on **cryptography** and **red teaming**. I'm also a rookie in **reverse engineering** and **binary exploitation**, actively learning through hands-on practice and competitive CTF challenges.
+I'm a **second-year cybersecurity student** with a strong focus on **cryptography** and **WEB 3**. I'm also a rookie in **reverse engineering** and **binary exploitation**, actively learning through hands-on practice and competitive CTF challenges.
 
-I regularly participate in CTF competitions and play for **L3ak** 🏴‍☠️, continuously improving my technical depth across offensive security and problem-solving domains.
+I regularly participate in CTF competitions and play for **L3ak** 🏴‍☠️ and captain of **GODSEC**, continuously improving my technical depth across offensive security and problem-solving domains.
 
 ---
 
-## 🏆 CTF Achievements *(Booyah!)*
+## 🏆 CTF Achievements 
 
 | Competition | Rank |
 |-------------|------|
+| 🥇 **FOXXCONCTF 2026** | 1st place |
 | 🥇 **srdnlenCTF 2026** | 1st place |
 | 🥇 **0xL4ughCTF 2026** | 1st Place |
 | 🥇 **BuckeyeCTF 2025** | 1st Place (Open) |
@@ -39,6 +40,7 @@ I regularly participate in CTF competitions and play for **L3ak** 🏴‍☠️,
 | 🥈 **IIT GOA BLOCKCHAINCTF** | 2nd Place |
 | 🥈 **BrunnerCTF** | 2nd Place |
 | 🥉 **Sunshine CTF 2025** | 3rd Place |
+| 🥉 **TAMU CTF 2025** | 3rd Place |
 | 🏅 **TheHackersCrew CTF** | Top 5 |
 | 🛡️ **FortID CTF** | 5th Place |
 | 🧊 **Glacier CTF** | 8th Place |

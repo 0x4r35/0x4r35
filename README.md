@@ -32,6 +32,7 @@ I regularly participate in CTF competitions and play for **L3ak** 🏴‍☠️ 
 
 | Competition | Rank |
 |-------------|------|
+| 🥇 **Kashi  CTF 2026** | 1st place |
 | 🥇 **FOXXCONCTF 2026** | 1st place |
 | 🥇 **srdnlenCTF 2026** | 1st place |
 | 🥇 **0xL4ughCTF 2026** | 1st Place |
@@ -39,6 +40,7 @@ I regularly participate in CTF competitions and play for **L3ak** 🏴‍☠️ 
 | 🥇 **Starpwn CTF** (DEF CON MetaCTF) | 1st Place |
 | 🥈 **IIT GOA BLOCKCHAINCTF** | 2nd Place |
 | 🥈 **BrunnerCTF** | 2nd Place |
+| 🥈 **RITSEC CTF** | 2nd Place |
 | 🥉 **Sunshine CTF 2025** | 3rd Place |
 | 🥉 **TAMU CTF 2025** | 3rd Place |
 | 🏅 **TheHackersCrew CTF** | Top 5 |

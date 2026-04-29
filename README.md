@@ -23,6 +23,7 @@
 ## 🦸 About Me
 
 I'm a **second-year cybersecurity student** with a strong focus on **cryptography** and **WEB 3**. I'm also a rookie in **reverse engineering** and **binary exploitation**, actively learning through hands-on practice and competitive CTF challenges.
+I love solving **Math** problems 
 
 I regularly participate in CTF competitions and play for **L3ak** 🏴‍☠️ and captain of **GODSEC**, continuously improving my technical depth across offensive security and problem-solving domains.
 

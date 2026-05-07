@@ -28,58 +28,7 @@ I love solving **Math** problems
 I regularly participate in CTF competitions and play for **L3ak** 🏴‍☠️ and captain of **GODSEC**, continuously improving my technical depth across offensive security and problem-solving domains.
 
 ---
-
-## 🏆 CTF Achievements 
-
-| Competition | Rank |
-|-------------|------|
-| 🥇 **Kashi  CTF 2026** | 1st place |
-| 🥇 **FOXXCONCTF 2026** | 1st place |
-| 🥇 **srdnlenCTF 2026** | 1st place |
-| 🥇 **0xL4ughCTF 2026** | 1st Place |
-| 🥇 **BuckeyeCTF 2025** | 1st Place (Open) |
-| 🥇 **Starpwn CTF** (DEF CON MetaCTF) | 1st Place |
-| 🥈 **IIT GOA BLOCKCHAINCTF** | 2nd Place |
-| 🥈 **BrunnerCTF** | 2nd Place |
-| 🥈 **RITSEC CTF** | 2nd Place |
-| 🥉 **Sunshine CTF 2025** | 3rd Place |
-| 🥉 **TAMU CTF 2025** | 3rd Place |
-| 🏅 **TheHackersCrew CTF** | Top 5 |
-| 🛡️ **FortID CTF** | 5th Place |
-| 🧊 **Glacier CTF** | 8th Place |
-| 🔒 **NULLCON CTF** | 9th Place |
-| 🛰️ **ASIS CTF** | 9th Place |
-
-### 🔐 CryptoHack
-- 🌍 **World Ranking:** 79
-- 🇮🇳 **India Rank:** 2
-- 👤 Username: `aresinheaven`
-
----
-
-## 💻 Tech Stack
-
-### Languages & Scripting
-![Python](https://img.shields.io/badge/Python-9B59B6?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-FF6B35?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SageMath](https://img.shields.io/badge/SageMath-2ECC71?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-E74C3C?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### Cryptography
-![RSA](https://img.shields.io/badge/RSA-FF6B35?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![AES](https://img.shields.io/badge/AES-9B59B6?style=for-the-badge&logo=letsencrypt&logoColor=white)
-![CBC Oracle](https://img.shields.io/badge/CBC_Oracle-2ECC71?style=for-the-badge&logo=hackthebox&logoColor=white)
-
-### Security Tools
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-9B59B6?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6B35?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-2ECC71?style=for-the-badge&logo=wireshark&logoColor=white)
-![Ghidra](https://img.shields.io/badge/Ghidra-E74C3C?style=for-the-badge&logo=ghidra&logoColor=white)
-
-### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FF6B35?style=for-the-badge&logo=linux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-9B59B6?style=for-the-badge&logo=archlinux&logoColor=white)
-
+**There are patterns in everything. The color in light, the reflections in water... in math, these patterns reveal themselves in the most incredible form. It's quite beautiful.**
 ---
 
 <div align="center">

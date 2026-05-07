@@ -28,7 +28,9 @@ I love solving **Math** problems
 I regularly participate in CTF competitions and play for **L3ak** 🏴‍☠️ and captain of **GODSEC**, continuously improving my technical depth across offensive security and problem-solving domains.
 
 ---
-**There are patterns in everything. The color in light, the reflections in water... in math, these patterns reveal themselves in the most incredible form. It's quite beautiful.**
+
+There are patterns in everything. The color in light, the reflections in water... in math, these patterns reveal themselves in the most incredible form. It's quite beautiful. ~srinivas ramanujan 
+
 ---
 
 <div align="center">

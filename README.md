@@ -1,9 +1,9 @@
 <div align="center">
 
-<!-- Teen Titans Go! Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,30&height=180&section=header&text=0x4r35%20(Manav)&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Titans%20Together!%20⚡&descAlignY=52&descSize=18" width="100%" />
+<!-- hmmmmm! Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,30&height=180&section=header&text=0x4r35%20(Manav)&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=ares%20here!%20⚡&descAlignY=52&descSize=18" width="100%" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Bangers&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=%E2%AD%90+Starfire+Says+Hello!+%F0%9F%92%9C;%F0%9F%A6%B8+Cybersecurity+Enthusiast;%F0%9F%8F%86+CTF+Player+%40+L3ak;%F0%9F%94%90+Cryptography+%7C+Red+Teaming" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Bangers&size=28&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=%E2%AD%90+Lain+Says+Hello!+%F0%9F%92%9C;%F0%9F%A6%B8+Cybersecurity+Enthusiast;%F0%9F%8F%86+CTF+Player+%40+L3ak;%F0%9F%94%90+Cryptography+%7C+Red+Teaming" alt="Typing SVG" />
 
 </div>
 

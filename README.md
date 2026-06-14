@@ -15,7 +15,7 @@
 
 </div>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0x4r35.github.io-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://0x4r35.github.io/)
+[![BLOG](https://img.shields.io/badge/Blog-https://www.aresinheaven.blog/-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://www.aresinheaven.blog/)
 [![Email](https://img.shields.io/badge/Email-aresctf@gmail.com-9B59B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aresctf@gmail.com)
 
 ---

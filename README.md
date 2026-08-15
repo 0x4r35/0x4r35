@@ -19,6 +19,4 @@ I regularly participate in CTF competitions and play for **L3ak** 🏴‍☠️ 
 
 **orz orz orz** 🙇
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,25,30&height=100&section=footer" width="100%" />
 
-</div>

@@ -6,8 +6,8 @@ I regularly participate in CTF competitions and play for **L3ak** 🏴‍☠️ 
 
 ---
 
-[![BLOG](https://img.shields.io/badge/Blog-https://www.aresinheaven.blog/-FF6B35?style=for-the-badge&logo=firefox&logoColor=white)](https://www.aresinheaven.blog/)
-[![Email](https://img.shields.io/badge/Email-aresctf@gmail.com-9B59B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aresctf@gmail.com)
+[![BLOG](https://img.shields.io/badge/Blog-https://www.aresinheaven.blog/-FF69B4?style=for-the-badge&logo=firefox&logoColor=white)](https://www.aresinheaven.blog/)
+[![Email](https://img.shields.io/badge/Email-aresctf@gmail.com-3498DB?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aresctf@gmail.com)
 
 ---
 
